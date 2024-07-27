@@ -1,0 +1,54 @@
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\bin\Release\System.Diagnostics.DiagnosticSource.xml
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Release\ITB.csproj.CoreCompileInputs.cache
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Release\ITB.csproj.Fody.CopyLocal.cache
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Release\ITB.csproj.CopyComplete
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Release\ITB.csproj.AssemblyReference.cache
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\bin\Release\AntiScript.exe.config
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\bin\Release\AntiScript.exe
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\bin\Release\AntiScript.pdb
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Release\AntiScript.exe
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Release\AntiScript.pdb
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\bin\Release\AntiScript.exe.config
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\bin\Release\AntiScript.exe
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\bin\Release\AntiScript.pdb
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\obj\Release\ITB.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\obj\Release\ITB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\obj\Release\ITB.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\obj\Release\ITB.csproj.CopyComplete
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\obj\Release\AntiScript.exe
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\obj\Release\AntiScript.pdb
+C:\Users\Administrator\Desktop\그래버\#인젝그래버\ITB\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\bin\Release\AntiScript.exe.config
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\bin\Release\AntiScript.exe
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\bin\Release\AntiScript.pdb
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.CopyComplete
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\obj\Release\AntiScript.exe
+C:\Users\Administrator\Desktop\그래버\#좀비체굴 버전업\ITB\obj\Release\AntiScript.pdb
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\bin\Release\AntiScript.exe.config
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\bin\Release\AntiScript.exe
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\bin\Release\AntiScript.pdb
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.CopyComplete
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\obj\Release\AntiScript.exe
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\obj\Release\AntiScript.pdb
+C:\Users\Administrator\Desktop\그래버\!#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\bin\Release\AntiScript.exe.config
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\bin\Release\AntiScript.exe
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\bin\Release\AntiScript.pdb
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\obj\Release\ITB.csproj.CopyComplete
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\obj\Release\AntiScript.exe
+C:\Users\Administrator\Desktop\그래버\좀비체굴 구매바\!#좀비체굴 버전업\ITB\obj\Release\AntiScript.pdb

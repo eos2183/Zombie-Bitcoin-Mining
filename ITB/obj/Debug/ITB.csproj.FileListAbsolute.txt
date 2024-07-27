@@ -1,0 +1,11 @@
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\bin\Debug\Newtonsoft.Json.xml
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Debug\ITB.csproj.AssemblyReference.cache
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Debug\ITB.csproj.CoreCompileInputs.cache
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Debug\ITB.csproj.Fody.CopyLocal.cache
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Debug\ITB.csproj.CopyComplete
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\bin\Debug\Minecraft Loader.exe.config
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\bin\Debug\Minecraft Loader.exe
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\bin\Debug\Minecraft Loader.pdb
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Debug\Minecraft Loader.exe
+G:\###자료###\######샵판매자료\[#] 인젝그래버\ITB\obj\Debug\Minecraft Loader.pdb
